@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Movies Assistant Project
 
 ## Step 1: Understanding the data
